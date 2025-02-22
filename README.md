@@ -1,1 +1,1 @@
-# DeepLearningIntroduction-Shlezinger
+# DeepLearningIntroduction
